@@ -6,5 +6,5 @@
  
  This application is similar to one I made for the Astrophysics Centre of the University of Porto. Comparing to the original one, this has some details modified to not use their intellectual property. The original one access their API for data, and this one uses a different data source.
 
-## Screens
+## Screens
  Some examples of screens in the application.
