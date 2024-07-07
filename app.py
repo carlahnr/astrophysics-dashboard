@@ -19,6 +19,10 @@ fig = dict({"data": [{"type": "scatter",
                       "y": []}]})
 
 
+sourcepaths=[ # add sourcepaths
+            ]
+
+
 #####################
 # populates dataframe and figure with selected sourcepath
 def populates_df_fig(sourcepath, dataframe, figure):
