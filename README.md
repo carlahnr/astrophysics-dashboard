@@ -7,6 +7,5 @@
  
  Made in Python, it uses Plotly Dash for the data visualization elements and UI, Pandas for data manipulation, Flask as the web server. It uses Jinja, HTML, and is styled with Bootstrap 5 and CSS.
 
-## Screens
- Some examples of screens in the application.
+## Screenshot
 <img width="725" alt="screenshot" src="https://github.com/carlahnr/astrophysics_dashboard/assets/100738389/2df1001c-3099-427c-b84d-52e907618616">
