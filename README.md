@@ -1,6 +1,6 @@
 # Astrophysics Dashboard
 
-Summary
+## Summary
  A dashboard style web application for visualizing astrophysics data, to aid in exoplanets discovery.
  Made in Python and uses Plotly Dash, Pandas and Flask, styled with Bootstrap 5.
  
