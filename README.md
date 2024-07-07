@@ -9,3 +9,4 @@
 
 ## Screens
  Some examples of screens in the application.
+<img width="725" alt="screenshot" src="https://github.com/carlahnr/astrophysics_dashboard/assets/100738389/2df1001c-3099-427c-b84d-52e907618616">
