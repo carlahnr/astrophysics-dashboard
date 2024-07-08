@@ -36,10 +36,10 @@
 [Plotly Dash](https://dash.plotly.com/installation) framework is used for data visualization UI items. Using Plotly (5.22.0) and Dash (2.17.1).
 
 ### Getting Started with Flask
-Web framework used was [Flask (3.0.2)](https://flask.palletsprojects.com/en/3.0.x/installation/#install-flask). Application uses [Jinja](https://jinja.palletsprojects.com/en/3.1.x/intro/#installation) (3.1.3) templating.
+Web framework used was [Flask](https://flask.palletsprojects.com/en/3.0.x/installation/#install-flask) (3.0.2). Application uses [Jinja](https://jinja.palletsprojects.com/en/3.1.x/intro/#installation) (3.1.3) templating.
 
 ### Getting Started with Pandas
-Data manipulation uses [Pandas (2.2.2)](https://pandas.pydata.org/getting_started.html).
+Data manipulation uses [Pandas](https://pandas.pydata.org/getting_started.html)  (2.2.2).
 
 ### Getting Started with Bootstrap
-Styled with [Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/download/). Also uses [Dash Bootstrap Components (1.6.0)](https://dash-bootstrap-components.opensource.faculty.ai/docs/) and [Dash Bootstrap Templates (1.1.2)](https://pypi.org/project/dash-bootstrap-templates/).
+Styled with [Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/download/). Also uses [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/docs/) (1.6.0) and [Dash Bootstrap Templates](https://pypi.org/project/dash-bootstrap-templates/) (1.1.2).
