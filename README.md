@@ -39,5 +39,5 @@ Web framework in [Flask](https://flask.palletsprojects.com/en/3.0.x/installation
 ### Getting Started with Pandas
 Data manipulation in [Pandas](https://pandas.pydata.org/getting_started.html).
 
-## Getting Started with Bootstrap
+### Getting Started with Bootstrap
 Styled with pure [Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/download/) and [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/docs/).
