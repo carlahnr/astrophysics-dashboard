@@ -28,7 +28,8 @@
  - Plotly Dash
  - Pandas
  - Bootstrap
- For more details, see [Dependencies](#dependencies) bellow.
+
+   For more details, see [Dependencies](#dependencies) bellow.
 
 ## Dependencies
 
