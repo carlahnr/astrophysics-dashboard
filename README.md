@@ -11,15 +11,16 @@
 
 ## Project Setup
 
+### General setup
  The app contains 2 views:
- - Home view - description of the app.
- - Dashboard view - main funcionality view, with all data visualization resources.
- - SourcePath management view - view to add and remove sourcepaths to the Dashboard.
+ - **Home view:** description of the app.
+ - **Dashboard view:** main funcionality view, with all data visualization resources.
+ - **SourcePath management view:** view to add and remove sourcepaths to the Dashboard.
 
- #### Directories distribution
- - / : root directory of the project, with the python application. Also contains the project's metadata files, and configuration files.
- - /static : all static assets, such as images, icons, javascript files and css files.
- - /templates : templates for the views using mainly HTML and Jinja.
+ ### Directories distribution
+ - **/ :** root directory of the project, with the python application. Also contains the project's metadata files, and configuration files.
+ - **/static :** all static assets, such as images, icons, javascript files and css files.
+ - **/templates :** templates for the views using mainly HTML and Jinja.
 
 ### Techstack
  - Flask
@@ -27,15 +28,15 @@
  - Pandas
  - Bootstrap 5
 
-## Dependencies
+### Dependencies
 
-### Getting Started with Plotly Dash
+#### Getting Started with Plotly Dash
 [Plotly Dash](https://dash.plotly.com/installation) framework is used for data visualization UI items.
 
-### Getting Started with Flask
+#### Getting Started with Flask
 Web framework in [Flask](https://flask.palletsprojects.com/en/3.0.x/installation/#install-flask).
 
-### Getting Started with Pandas
+#### Getting Started with Pandas
 Data manipulation in [Pandas](https://pandas.pydata.org/getting_started.html).
 
 ### Getting Started with Bootstrap
