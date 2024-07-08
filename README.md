@@ -15,7 +15,7 @@
 
 ## Project Setup
 
-### General setup
+### General GUI setup
  The app contains 3 views:
  - **Home view:** description of the app.
  - **Dashboard view:** main funcionality view, with all data visualization resources.
