@@ -23,13 +23,12 @@
  - **/templates :** templates for the views using mainly HTML and Jinja.
 
 ### Techstack
+ (For more details, see [Dependencies](#dependencies) bellow)
  - Python (3.9.18)
  - Flask
  - Plotly Dash
  - Pandas
  - Bootstrap
-
-   For more details, see [Dependencies](#dependencies) bellow.
 
 ## Dependencies
 
