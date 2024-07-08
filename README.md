@@ -26,7 +26,7 @@
  - Flask
  - Plotly Dash
  - Pandas
- - Bootstrap 5
+ - Bootstrap
 
 ## Dependencies
 
