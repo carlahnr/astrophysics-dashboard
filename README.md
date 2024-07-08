@@ -12,10 +12,10 @@
 ## Project Setup
 
 ### General setup
- The app contains 2 views:
+ The app contains 3 views:
  - **Home view:** description of the app.
  - **Dashboard view:** main funcionality view, with all data visualization resources.
- - **SourcePath management view:** view to add and remove sourcepaths to the Dashboard.
+ - **Sourcepath management view:** view to add and remove sourcepaths to the Dashboard.
 
  ### Directories distribution
  - **/ :** root directory of the project, with the python application. Also contains the project's metadata files, and configuration files.
