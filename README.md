@@ -1,7 +1,7 @@
 # Astrophysics Dashboard
 
 ## About
- A dashboard style web application for visualizing astrophysics data, to aid in exoplanets discovery.
+ A dashboard style interactive web application for visualizing astrophysics data, to aid in exoplanets discovery.
  
  This application is similar to one I made for the Institute of Astrophysics and Space Sciences / Astrophysics Centre of the University of Porto. Comparing to the original one, this application has some details modified to not use their intellectual property. The original one accesses their API for data, whilst this one uses a different data source.
  
