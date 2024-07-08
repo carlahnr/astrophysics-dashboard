@@ -42,4 +42,4 @@ Web framework used was [Flask (3.0.2)](https://flask.palletsprojects.com/en/3.0.
 Data manipulation uses [Pandas (2.2.2)](https://pandas.pydata.org/getting_started.html).
 
 ### Getting Started with Bootstrap
-Styled with [Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/download/) and [Dash Bootstrap Components (1.6.0)](https://dash-bootstrap-components.opensource.faculty.ai/docs/) and [Dash Bootstrap Templates (1.1.2)](https://pypi.org/project/dash-bootstrap-templates/).
+Styled with [Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/download/). Also uses [Dash Bootstrap Components (1.6.0)](https://dash-bootstrap-components.opensource.faculty.ai/docs/) and [Dash Bootstrap Templates (1.1.2)](https://pypi.org/project/dash-bootstrap-templates/).
