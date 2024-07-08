@@ -1,5 +1,6 @@
 # Astrophysics Dashboard
 
+## Table of Contents
 - [About](#about)
 - [Project Setup](#project-setup)
 - [Dependencies](#dependencies)
