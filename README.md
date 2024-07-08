@@ -1,5 +1,8 @@
 # Astrophysics Dashboard
 
+![Flask](https://img.shields.io/badge/flask-red?style=for-the-badge&logo=flask) ![Pandas](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=navy)
+
+
 ## Table of Contents
  - [About](#about)
  - [Project Setup](#project-setup)
