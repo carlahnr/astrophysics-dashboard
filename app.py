@@ -87,10 +87,6 @@ def populates_df_fig(sourcepath, dataframe, figure):
 for sp in sourcepaths:
     df, fig = populates_df_fig(sp, df, fig)
 
-
-#print(df.columns)
-
-
 #####################
 
 server = Flask(__name__)
