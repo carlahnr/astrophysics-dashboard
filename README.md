@@ -10,6 +10,7 @@
  - [About](#about)
  - [Project Setup](#project-setup)
  - [Dependencies](#dependencies)
+ - [Execution](#execution)
 
 ## About
  A dashboard style interactive web application for visualizing astrophysics data, to aid in exoplanets discovery.
@@ -53,3 +54,7 @@ Data manipulation uses [Pandas](https://pandas.pydata.org/getting_started.html) 
 
 ### Getting Started with Bootstrap
 Styled with [Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/download/). Also uses [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/docs/) (1.6.0) and [Dash Bootstrap Templates](https://pypi.org/project/dash-bootstrap-templates/) (1.1.2).
+
+## Execution
+- `export FLASK_APP=app.py`
+- `flask run --port 5001`, to run on a different port, change the port number.
