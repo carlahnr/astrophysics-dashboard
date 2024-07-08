@@ -1,9 +1,9 @@
 # Astrophysics Dashboard
 
 ## Table of Contents
-- [About](#about)
-- [Project Setup](#project-setup)
-- [Dependencies](#dependencies)
+1. [About](#about)
+2. [Project Setup](#project-setup)
+3. [Dependencies](#dependencies)
 
 ## About
  A dashboard style interactive web application for visualizing astrophysics data, to aid in exoplanets discovery.
