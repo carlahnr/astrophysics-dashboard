@@ -23,21 +23,23 @@
  - **/templates :** templates for the views using mainly HTML and Jinja.
 
 ### Techstack
+ - Python (3.9.18)
  - Flask
  - Plotly Dash
  - Pandas
  - Bootstrap
+ For more details, see [Dependencies](#dependencies) bellow.
 
 ## Dependencies
 
 ### Getting Started with Plotly Dash
-[Plotly Dash](https://dash.plotly.com/installation) framework is used for data visualization UI items.
+[Plotly Dash](https://dash.plotly.com/installation) framework is used for data visualization UI items. Using Plotly (5.22.0) and Dash (2.17.1).
 
 ### Getting Started with Flask
-Web framework in [Flask](https://flask.palletsprojects.com/en/3.0.x/installation/#install-flask).
+Web framework used was [Flask (3.0.2)](https://flask.palletsprojects.com/en/3.0.x/installation/#install-flask). Application uses [Jinja](https://jinja.palletsprojects.com/en/3.1.x/intro/#installation) (3.1.3) templating.
 
 ### Getting Started with Pandas
-Data manipulation uses [Pandas](https://pandas.pydata.org/getting_started.html).
+Data manipulation uses [Pandas (2.2.2)](https://pandas.pydata.org/getting_started.html).
 
 ### Getting Started with Bootstrap
-Styled with [Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/download/) and [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/docs/).
+Styled with [Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/download/) and [Dash Bootstrap Components (1.6.0) and Templates (1.1.2)](https://dash-bootstrap-components.opensource.faculty.ai/docs/).
