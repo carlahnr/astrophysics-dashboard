@@ -28,16 +28,16 @@
  - Pandas
  - Bootstrap 5
 
-### Dependencies
+## Dependencies
 
-#### Getting Started with Plotly Dash
+### Getting Started with Plotly Dash
 [Plotly Dash](https://dash.plotly.com/installation) framework is used for data visualization UI items.
 
-#### Getting Started with Flask
+### Getting Started with Flask
 Web framework in [Flask](https://flask.palletsprojects.com/en/3.0.x/installation/#install-flask).
 
-#### Getting Started with Pandas
+### Getting Started with Pandas
 Data manipulation in [Pandas](https://pandas.pydata.org/getting_started.html).
 
-### Getting Started with Bootstrap
+## Getting Started with Bootstrap
 Styled with pure [Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/download/) and [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/docs/).
