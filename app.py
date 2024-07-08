@@ -19,7 +19,8 @@ fig = dict({"data": [{"type": "scatter",
                       "y": []}]})
 
 
-sourcepaths=[ # add sourcepaths
+sourcepaths=[ # Code removed to not share intelectial property!
+              # Add sourcepaths list here.
             ]
 
 
@@ -36,7 +37,8 @@ def populates_df_fig(sourcepath, dataframe, figure):
         
     if sourcepath != "":
 
-        # TODO Replace datasource API
+        # Code removed to not share intelectial property!
+        # Add other datasource API here.
         # dff = astrophysics_api()
 
         # creates id column to help with user interactions with graph
