@@ -1,6 +1,6 @@
 # Astrophysics Dashboard
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=%233776AB)
-![Flask](https://img.shields.io/badge/flask-red?style=for-the-badge&logo=flask)
+![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)
 ![Plotly Dash](https://img.shields.io/badge/plotly_dash-%233F4F75?style=for-the-badge&logo=plotly)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas)
 ![Bootstrap5](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=pandas&color=%237952B3)
